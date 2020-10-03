@@ -1,7 +1,7 @@
 #init.R
 # Example R code to install packages if not already installed
 
-my_packages = c("caret","caretEnsemble","shiny","shinythemes","data.table")
+my_packages = c("e1071","caret","caretEnsemble","shiny","shinythemes","data.table")
 
 install_if_missing = function(p) {
   if (p %in% rownames(installed.packages()) == FALSE) {
