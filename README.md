@@ -37,19 +37,19 @@ We trained our prediction model through supervised learning as we already have t
 The confusion matrix is used here to evaluate our model. We got an accuracy of 86% using the SVM.
 we find the Sensitivity and specificity 82.05% and 95.45 % respectably. 
 
-# Which programming Language is used here?
+## Which programming Language is used here?
 we have used R programming for this End to End project.
-# R Library 
+## R Library 
 1. caret
 2. caretEnsampble
 3. data.table
 4. Shiny
 5. Shinytheme
 6. caTools
-#  Deployment 
+##  Deployment 
 We deployed this Application through Shinyapp.io
 
-#  Contributors 
-1. Sk Hasimuddin ( M.sc in computer science ,Pondicherry university)
+##  Contributors 
+1. Sk Hasimuddin  (M.sc in computer science ,Pondicherry university)
 2. Jishu Dey      (M.sc in Statistics, Pondicherry university) 
 
