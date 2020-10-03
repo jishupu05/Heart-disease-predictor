@@ -47,7 +47,7 @@ we have used R programming for this End to End project.
 5. Shinytheme
 6. caTools
 ##  Deployment 
-We deployed this Application through Shinyapp.io
+We deployed this Application through Heroku 
 
 ##  Contributors 
 1. Sk Hasimuddin  (M.sc in computer science ,Pondicherry university)
