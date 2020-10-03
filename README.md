@@ -53,3 +53,5 @@ We deployed this Application through Shinyapp.io
 1. Sk Hasimuddin  (M.sc in computer science ,Pondicherry university)
 2. Jishu Dey      (M.sc in Statistics, Pondicherry university) 
 
+#  web app link: 
+https://heart-disease-predictos.herokuapp.com/
