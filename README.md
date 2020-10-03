@@ -31,7 +31,25 @@ this date. The "goal" field refers to the presence of heart disease in the patie
 14. Diagnosis of heart disease: Displays whether the individual is suffering from heart disease or not.
 
 ## Model Training and Prediction:
-We trained our prediction model through supervised learning as we already have the target variable. We have used Support Vector Machine to train the model and get prediction.
+We trained our prediction model through supervised learning as we already have the target variable. We have used Linear Support Vector Machine to train the model and get prediction.
 
 ## Model Evaluation:
 The confusion matrix is used here to evaluate our model. We got an accuracy of 86% using the SVM.
+we find the Sensitivity and specificity 82.05% and 95.45 % respectably. 
+
+# Which programming Language is used here?
+we have used R programming for this End to End project.
+# R Library 
+1. caret
+2. caretEnsampble
+3. data.table
+4. Shiny
+5. Shinytheme
+6. caTools
+#  Deployment 
+We deployed this Application through Shinyapp.io
+
+#  Contributors 
+1. Sk Hasimuddin ( M.sc in computer science ,Pondicherry university)
+2. Jishu Dey      (M.sc in Statistics, Pondicherry university) 
+
